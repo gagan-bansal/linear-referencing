@@ -1,4 +1,4 @@
 linear-referencing
 ==================
 
-Javascript Linear referencing function functions using GeoJSON
+Javascript Linear referencing functions using GeoJSON
